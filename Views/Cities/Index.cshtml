@@ -1,0 +1,33 @@
+@model IEnumerable<TravelGuide.Models.City>
+
+@{
+    ViewData["Title"] = "Города";
+}
+
+<h1>Города</h1>
+
+<form asp-controller="Cities" asp-action="Index" method="get">
+    <p>
+        Название города: <input type="text" name="searchString" />
+        <input type="submit" value="Поиск" />
+    </p>
+</form>
+
+<div class="row">
+    @foreach (var item in Model) {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                @if (!string.IsNullOrEmpty(item.ImagePath))
+                {
+                    <img src="@item.ImagePath" class="card-img-top" alt="@item.Name">
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Region</p>
+                    <p class="card-text">Население: @item.Population.ToString("N0")</p>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Подробнее</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
