@@ -526,3 +526,4 @@ C:\Users\klopk\TravelGuide\obj\Debug\net9.0\refint\TravelGuide.dll
 C:\Users\klopk\TravelGuide\obj\Debug\net9.0\TravelGuide.pdb
 C:\Users\klopk\TravelGuide\obj\Debug\net9.0\TravelGuide.genruntimeconfig.cache
 C:\Users\klopk\TravelGuide\obj\Debug\net9.0\ref\TravelGuide.dll
+C:\Users\klopk\TravelGuide\obj\Debug\net9.0\TravelGuide.sourcelink.json

@@ -1,5 +1,6 @@
 @model IEnumerable<TravelGuide.Models.City>
 
+
 @{
     ViewData["Title"] = "Города";
 }
@@ -17,10 +18,10 @@
     @foreach (var item in Model) {
         <div class="col-md-4 mb-4">
             <div class="card">
-                @if (!string.IsNullOrEmpty(item.ImagePath))
-                {
-                    <img src="@item.ImagePath" class="card-img-top" alt="@item.Name">
-                }
+               @if (!string.IsNullOrEmpty(item.ImagePath))
+{
+    <img src="@Url.Content(item.ImagePath)" class="card-img-top" alt="@item.Name">
+}
                 <div class="card-body">
                     <h5 class="card-title">@item.Name</h5>
                     <p class="card-text">@item.Region</p>

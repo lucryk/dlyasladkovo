@@ -13,24 +13,56 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.jpg",
-      "PackagePath": "staticwebassets\\images\\moscow.jpg"
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb.jpg",
+      "PackagePath": "staticwebassets\\images\\ekb.jpg"
     },
     {
-      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.webp",
-      "PackagePath": "staticwebassets\\images\\moscow.webp"
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb_coat.png",
+      "PackagePath": "staticwebassets\\images\\ekb_coat.png"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\hermitage.jpg",
+      "PackagePath": "staticwebassets\\images\\hermitage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.jpg",
+      "PackagePath": "staticwebassets\\images\\moscow.jpg"
     },
     {
       "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.jpeg",
       "PackagePath": "staticwebassets\\images\\moscow_coat.jpeg"
     },
     {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.png",
+      "PackagePath": "staticwebassets\\images\\moscow_coat.png"
+    },
+    {
       "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ostankino.jpg",
       "PackagePath": "staticwebassets\\images\\ostankino.jpg"
     },
     {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\plotinka.jpg",
+      "PackagePath": "staticwebassets\\images\\plotinka.jpg"
+    },
+    {
       "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\reg_square.jpg",
       "PackagePath": "staticwebassets\\images\\reg_square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb.jpg",
+      "PackagePath": "staticwebassets\\images\\spb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb_coat.png",
+      "PackagePath": "staticwebassets\\images\\spb_coat.png"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\visockiy.jpg",
+      "PackagePath": "staticwebassets\\images\\visockiy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\xnk.jpg",
+      "PackagePath": "staticwebassets\\images\\xnk.jpg"
     },
     {
       "Id": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\js\\site.js",

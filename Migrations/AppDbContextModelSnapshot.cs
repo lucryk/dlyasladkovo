@@ -37,6 +37,7 @@ namespace TravelGuide.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal?>("EntranceFee")
+                        .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("History")

@@ -39,7 +39,7 @@ namespace TravelGuide.Migrations
                     History = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ImagePath = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     WorkingHours = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    EntranceFee = table.Column<decimal>(type: "decimal(18,2)", nullable: true),
+                    EntranceFee = table.Column<decimal>(type: "decimal(18,2)", precision: 18, scale: 2, nullable: true),
                     CityId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

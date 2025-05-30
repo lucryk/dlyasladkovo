@@ -11,7 +11,7 @@ using TravelGuide.Data;
 namespace TravelGuide.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250529112140_InitialCreate")]
+    [Migration("20250529211049_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -40,6 +40,7 @@ namespace TravelGuide.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal?>("EntranceFee")
+                        .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("History")

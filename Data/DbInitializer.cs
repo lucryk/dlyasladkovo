@@ -24,7 +24,7 @@ namespace TravelGuide.Data
                     Population = 12655050,
                     History = "Москва — столица России, город федерального значения...",
                     ImagePath = "/images/moscow.jpg",
-                    CoatOfArmsPath = "/images/moscow_coat.jpeg",
+                    CoatOfArmsPath = "/images/moscow_coat.png",
                     Attractions = new List<Attraction>
                     {
                         new Attraction
@@ -32,7 +32,7 @@ namespace TravelGuide.Data
                             Name = "Красная площадь",
                             Description = "Главная площадь Москвы...",
                             History = "Красная площадь появилась в конце XV века...",
-                            ImagePath = "/images/red_square.jpg",
+                            ImagePath = "/images/reg_square.jpg",
                             WorkingHours = "Круглосуточно",
                             EntranceFee = 0,
                             // Явно указываем связь
@@ -56,8 +56,8 @@ namespace TravelGuide.Data
                     Region = "Северо-Западный федеральный округ",
                     Population = 5398000,
                     History = "Санкт-Петербург был основан 27 мая 1703 года...",
-                    ImagePath = "https://example.com/spb.jpg",
-                    CoatOfArmsPath = "https://example.com/spb_coat.png",
+                    ImagePath = "/images/spb.jpg",
+                    CoatOfArmsPath = "/images/spb_coat.png",
                     Attractions = new List<Attraction>
                     {
                         new Attraction
@@ -65,13 +65,52 @@ namespace TravelGuide.Data
                             Name = "Эрмитаж",
                             Description = "Один из крупнейших и самых старых музеев мира...",
                             History = "Основан в 1764 году Екатериной II...",
-                            ImagePath = "https://example.com/hermitage.jpg",
+                            ImagePath = "/images/hermitage.jpg",
                             WorkingHours = "10:30-18:00, выходной - понедельник",
                             EntranceFee = 800,
                             CityId = 2
                         }
                     }
+                },
+                new City
+        {
+            Name = "Екатеринбург",
+            Region = "Уральский федеральный округ",
+            Population = 1493749,
+            History = "Основан в 1723 году как завод-крепость на реке Исети. Крупнейший административный, культурный и научно-образовательный центр Урала.",
+            ImagePath = "/images/ekb.jpg",
+            CoatOfArmsPath = "/images/ekb_coat.png",
+            Attractions = new List<Attraction>
+            {
+                new Attraction
+                {
+                    Name = "Плотина Городского пруда (Плотинка)",
+                    Description = "Исторический центр города, место основания Екатеринбурга.",
+                    History = "Построена в 1723 году, является старейшим сооружением города.",
+                    ImagePath = "/images/plotinka.jpg",
+                    WorkingHours = "Круглосуточно",
+                    EntranceFee = 0
+                },
+                new Attraction
+                {
+                    Name = "Храм на Крови",
+                    Description = "Православный храм, построенный на месте дома Ипатьева.",
+                    History = "Возведен в 2000-2003 годах на месте расстрела царской семьи.",
+                    ImagePath = "/images/xnk.jpg",
+                    WorkingHours = "07:00-23:00",
+                    EntranceFee = 0
+                },
+                new Attraction
+                {
+                    Name = "Небоскрёб «Высоцкий»",
+                    Description = "Один из самых высоких небоскрёбов России со смотровой площадкой.",
+                    History = "Построен в 2011 году, назван в честь Владимира Высоцкого.",
+                    ImagePath = "/images/visockiy.jpg",
+                    WorkingHours = "12:00-22:00",
+                    EntranceFee = 600
                 }
+            }
+        }
             };
 
             // Отключаем отслеживание для избежания конфликтов

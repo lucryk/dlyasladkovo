@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D6esXD+iGl4rNeMeELw7/dWZXEJ70goeMJUvF6Dahgg=",
+  "Hash": "pNLcLdecB2Y8GRB8fLCx5jOWzgw8R0odYsYHd+FsLkU=",
   "Source": "TravelGuide",
   "BasePath": "_content/TravelGuide",
   "Mode": "Default",
@@ -1445,6 +1445,69 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb_coat.png",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/ekb_coat#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tthcm7cybr",
+      "Integrity": "v4iIVwKhyvjh6u0RSjknZMFhR2omOX8jXYocAuBp7i4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ekb_coat.png"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/ekb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "382ngzplnf",
+      "Integrity": "/UhaTkHcfEuewdhaRpEY42cTGZhPZU233tdmaRGlnQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ekb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\hermitage.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/hermitage#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w41dwo11ig",
+      "Integrity": "AOlzZhn4GSvS35XxJvKNeJfYlOO32R7QM7lAwBTYiYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hermitage.jpg"
+    },
+    {
       "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.jpeg",
       "SourceId": "TravelGuide",
       "SourceType": "Discovered",
@@ -1464,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\moscow_coat.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.png",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/moscow_coat#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hj5zqe8uo7",
+      "Integrity": "M6dPzyNHILDtPZB+/iMQeAyJSRKgioj1IhReaRoxPXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\moscow_coat.png"
     },
     {
       "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.jpg",
@@ -1487,27 +1571,6 @@
       "OriginalItemSpec": "wwwroot\\images\\moscow.jpg"
     },
     {
-      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.webp",
-      "SourceId": "TravelGuide",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
-      "BasePath": "_content/TravelGuide",
-      "RelativePath": "images/moscow#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hkp590d4r7",
-      "Integrity": "T3bxj2ZN5zzTe/voD2bXnUnPUV24H7Tk7MyOgzMqXRw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\moscow.webp"
-    },
-    {
       "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ostankino.jpg",
       "SourceId": "TravelGuide",
       "SourceType": "Discovered",
@@ -1529,6 +1592,27 @@
       "OriginalItemSpec": "wwwroot\\images\\ostankino.jpg"
     },
     {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\plotinka.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/plotinka#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3a9xswx8g",
+      "Integrity": "kXORTvkU092oug1vrhEQbMATSdQKa/zNj2fIylU92zo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\plotinka.jpg"
+    },
+    {
       "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\reg_square.jpg",
       "SourceId": "TravelGuide",
       "SourceType": "Discovered",
@@ -1548,6 +1632,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\reg_square.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb_coat.png",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/spb_coat#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no3xajj1w1",
+      "Integrity": "53YyJwISU2cMob+W+Lf430kuqChQATF4jQqVKQkqdT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\spb_coat.png"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/spb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xth547k8pm",
+      "Integrity": "hSnFVZ9kcOVCC7e/Z4q731C7dPjNjot6Gs1HVFlsSJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\spb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\visockiy.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/visockiy#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sz2glqhrgy",
+      "Integrity": "KCCDHPfn5SpEzzgZ0C1tc77Pi9SMVT3k0pzqLab2AYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\visockiy.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\xnk.jpg",
+      "SourceId": "TravelGuide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\",
+      "BasePath": "_content/TravelGuide",
+      "RelativePath": "images/xnk#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akr2ed27a0",
+      "Integrity": "CvpORQeVCbs9XBDJ7BlSz/DiPBlQ+BrUGmLO/b4bgzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xnk.jpg"
     },
     {
       "Identity": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\js\\site.js",
@@ -3429,6 +3597,252 @@
       ]
     },
     {
+      "Route": "images/ekb_coat.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb_coat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4iIVwKhyvjh6u0RSjknZMFhR2omOX8jXYocAuBp7i4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4iIVwKhyvjh6u0RSjknZMFhR2omOX8jXYocAuBp7i4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ekb_coat.tthcm7cybr.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb_coat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4iIVwKhyvjh6u0RSjknZMFhR2omOX8jXYocAuBp7i4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:02:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tthcm7cybr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ekb_coat.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4iIVwKhyvjh6u0RSjknZMFhR2omOX8jXYocAuBp7i4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ekb.382ngzplnf.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UhaTkHcfEuewdhaRpEY42cTGZhPZU233tdmaRGlnQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "382ngzplnf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ekb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UhaTkHcfEuewdhaRpEY42cTGZhPZU233tdmaRGlnQM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ekb.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ekb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UhaTkHcfEuewdhaRpEY42cTGZhPZU233tdmaRGlnQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UhaTkHcfEuewdhaRpEY42cTGZhPZU233tdmaRGlnQM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hermitage.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\hermitage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOlzZhn4GSvS35XxJvKNeJfYlOO32R7QM7lAwBTYiYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOlzZhn4GSvS35XxJvKNeJfYlOO32R7QM7lAwBTYiYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/hermitage.w41dwo11ig.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\hermitage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOlzZhn4GSvS35XxJvKNeJfYlOO32R7QM7lAwBTYiYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w41dwo11ig"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hermitage.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOlzZhn4GSvS35XxJvKNeJfYlOO32R7QM7lAwBTYiYw="
+        }
+      ]
+    },
+    {
       "Route": "images/moscow_coat.5xukoalz6g.jpeg",
       "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.jpeg",
       "Selectors": [],
@@ -3474,6 +3888,51 @@
       ]
     },
     {
+      "Route": "images/moscow_coat.hj5zqe8uo7.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6dPzyNHILDtPZB+/iMQeAyJSRKgioj1IhReaRoxPXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:36:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hj5zqe8uo7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/moscow_coat.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6dPzyNHILDtPZB+/iMQeAyJSRKgioj1IhReaRoxPXA="
+        }
+      ]
+    },
+    {
       "Route": "images/moscow_coat.jpeg",
       "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.jpeg",
       "Selectors": [],
@@ -3511,8 +3970,8 @@
       ]
     },
     {
-      "Route": "images/moscow.hkp590d4r7.webp",
-      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.webp",
+      "Route": "images/moscow_coat.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow_coat.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3521,37 +3980,29 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "160394"
+          "Value": "23980"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/webp"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"T3bxj2ZN5zzTe/voD2bXnUnPUV24H7Tk7MyOgzMqXRw=\""
+          "Value": "\"M6dPzyNHILDtPZB+/iMQeAyJSRKgioj1IhReaRoxPXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 20:03:50 GMT"
+          "Value": "Thu, 29 May 2025 20:36:01 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "hkp590d4r7"
-        },
-        {
-          "Name": "label",
-          "Value": "images/moscow.webp"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-T3bxj2ZN5zzTe/voD2bXnUnPUV24H7Tk7MyOgzMqXRw="
+          "Value": "sha256-M6dPzyNHILDtPZB+/iMQeAyJSRKgioj1IhReaRoxPXA="
         }
       ]
     },
@@ -3638,43 +4089,6 @@
       ]
     },
     {
-      "Route": "images/moscow.webp",
-      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\moscow.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "160394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T3bxj2ZN5zzTe/voD2bXnUnPUV24H7Tk7MyOgzMqXRw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 20:03:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-T3bxj2ZN5zzTe/voD2bXnUnPUV24H7Tk7MyOgzMqXRw="
-        }
-      ]
-    },
-    {
       "Route": "images/ostankino.jpg",
       "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\ostankino.jpg",
       "Selectors": [],
@@ -3757,6 +4171,88 @@
       ]
     },
     {
+      "Route": "images/plotinka.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\plotinka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kXORTvkU092oug1vrhEQbMATSdQKa/zNj2fIylU92zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:03:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kXORTvkU092oug1vrhEQbMATSdQKa/zNj2fIylU92zo="
+        }
+      ]
+    },
+    {
+      "Route": "images/plotinka.z3a9xswx8g.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\plotinka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kXORTvkU092oug1vrhEQbMATSdQKa/zNj2fIylU92zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:03:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3a9xswx8g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/plotinka.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kXORTvkU092oug1vrhEQbMATSdQKa/zNj2fIylU92zo="
+        }
+      ]
+    },
+    {
       "Route": "images/reg_square.jpg",
       "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\reg_square.jpg",
       "Selectors": [],
@@ -3835,6 +4331,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-LwT58TM+NTiBktsSNbYnE9wY1I/WPxuvmCw6Gev40SU="
+        }
+      ]
+    },
+    {
+      "Route": "images/spb_coat.no3xajj1w1.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb_coat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53YyJwISU2cMob+W+Lf430kuqChQATF4jQqVKQkqdT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:42:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no3xajj1w1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spb_coat.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-53YyJwISU2cMob+W+Lf430kuqChQATF4jQqVKQkqdT0="
+        }
+      ]
+    },
+    {
+      "Route": "images/spb_coat.png",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb_coat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53YyJwISU2cMob+W+Lf430kuqChQATF4jQqVKQkqdT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:42:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-53YyJwISU2cMob+W+Lf430kuqChQATF4jQqVKQkqdT0="
+        }
+      ]
+    },
+    {
+      "Route": "images/spb.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSnFVZ9kcOVCC7e/Z4q731C7dPjNjot6Gs1HVFlsSJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:43:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSnFVZ9kcOVCC7e/Z4q731C7dPjNjot6Gs1HVFlsSJQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/spb.xth547k8pm.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\spb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSnFVZ9kcOVCC7e/Z4q731C7dPjNjot6Gs1HVFlsSJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 20:43:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xth547k8pm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSnFVZ9kcOVCC7e/Z4q731C7dPjNjot6Gs1HVFlsSJQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/visockiy.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\visockiy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCCDHPfn5SpEzzgZ0C1tc77Pi9SMVT3k0pzqLab2AYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCCDHPfn5SpEzzgZ0C1tc77Pi9SMVT3k0pzqLab2AYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/visockiy.sz2glqhrgy.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\visockiy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCCDHPfn5SpEzzgZ0C1tc77Pi9SMVT3k0pzqLab2AYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sz2glqhrgy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/visockiy.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCCDHPfn5SpEzzgZ0C1tc77Pi9SMVT3k0pzqLab2AYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/xnk.akr2ed27a0.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\xnk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CvpORQeVCbs9XBDJ7BlSz/DiPBlQ+BrUGmLO/b4bgzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akr2ed27a0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xnk.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CvpORQeVCbs9XBDJ7BlSz/DiPBlQ+BrUGmLO/b4bgzU="
+        }
+      ]
+    },
+    {
+      "Route": "images/xnk.jpg",
+      "AssetFile": "C:\\Users\\klopk\\TravelGuide\\wwwroot\\images\\xnk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CvpORQeVCbs9XBDJ7BlSz/DiPBlQ+BrUGmLO/b4bgzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 21:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CvpORQeVCbs9XBDJ7BlSz/DiPBlQ+BrUGmLO/b4bgzU="
         }
       ]
     },
