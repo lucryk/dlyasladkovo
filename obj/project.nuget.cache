@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdH+cEbCQZc=",
+  "dgSpecHash": "iZBq8w9U7GI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\klopk\\TravelGuide\\TravelGuide.csproj",
+  "projectFilePath": "C:\\Users\\klopk\\fortema\\pks4\\TravelGuide.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klopk\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\klopk\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
